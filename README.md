@@ -1,4 +1,4 @@
-
+hello-world/img/huaji.jpg 
 > 表格练习  
 
 |第一列 |第二列 |
@@ -9,4 +9,4 @@
 
 ![滑稽]("img/huaji.jpg")
 
-![滑稽]("")
+![滑稽]("hello-world/img/huaji.jpg ")
