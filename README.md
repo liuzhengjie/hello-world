@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/huaji.jpg" width="100px"/>
+</p>
+
 hello-world/img/huaji.jpg 
 > 表格练习  
 
