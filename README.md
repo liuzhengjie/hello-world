@@ -9,4 +9,4 @@ hello-world/img/huaji.jpg
 
 ![滑稽]("https://raw.githubusercontent.com/liuzhengjie/hello-world/master/img/huaji.jpg")
 
-![滑稽]("hello-world/img/huaji.jpg ")
+![滑稽]("img/huaji.jpg ")
