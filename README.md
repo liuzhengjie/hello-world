@@ -11,6 +11,6 @@ hello-world/img/huaji.jpg
 
 ####图片
 
-![滑稽]("https://github.com/liuzhengjie/hello-world/master/img/huaji.jpg")
+![滑稽]("https://github.com/liuzhengjie/hello-world/raw/master/img/huaji.jpg")
 
 ![滑稽]("img/huaji.jpg ")
